@@ -1,0 +1,13 @@
+.background {
+  background-image: url("https://i.imgur.com/LowaZf1.png");
+  background-size: 300px;
+}
+.Tle {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.hisname {
+  font-family: Luminari, fantasy, sans-serif;
+  font-size: 50px;
+}
